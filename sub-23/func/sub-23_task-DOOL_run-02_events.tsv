@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-23	0	2	baseline	0	0	0	0
+30	180	sub-23	16	2	5C	5	random 	random	Becky – Random scenes
+210	30	sub-23	106	2	baseline	0	0	0	0
+240	180	sub-23	121	2	4B	4	bad	positive	Sami will go to the concert. 
+420	30	sub-23	211	2	baseline	0	0	0	0
+450	180	sub-23	226	2	1A	1	good	positive	Belle’s daughter has survived. 
+630	30	sub-23	316	2	baseline	0	0	0	0
+660	180	sub-23	331	2	3C	3	good	negative	Jenny’s husband is dead. 
+840	30	sub-23	421	2	baseline	0	0	0	0
+870	180	sub-23	436	2	2B	2	bad	negative	Chelsea’s terrible car accident. 
+1050	30	sub-23	526	2	baseline	0	0	0	0

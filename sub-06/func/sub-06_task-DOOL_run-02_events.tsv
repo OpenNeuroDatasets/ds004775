@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-06	0	2	baseline	0	0	0	0
+30	180	sub-06	16	2	1C	1	good	positive	Shawn proposed to Mimi. 
+210	30	sub-06	106	2	baseline	0	0	0	0
+240	180	sub-06	121	2	5B	5	random 	random	Max – Random scenes
+420	30	sub-06	211	2	baseline	0	0	0	0
+450	180	sub-06	226	2	4A	4	bad	positive	Sami’s good luck. 
+630	30	sub-06	316	2	baseline	0	0	0	0
+660	180	sub-06	331	2	3A	3	good	negative	Belle’s daughter gets very sick. 
+840	30	sub-06	421	2	baseline	0	0	0	0
+870	180	sub-06	436	2	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+1050	30	sub-06	526	2	baseline	0	0	0	0

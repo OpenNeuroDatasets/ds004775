@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-06	0	3	baseline	0	0	0	0
+30	180	sub-06	16	3	2B	2	bad	negative	Chelsea’s terrible car accident. 
+210	30	sub-06	106	3	baseline	0	0	0	0
+240	180	sub-06	121	3	5A	5	random	random	Maggie – Random scenes 
+420	30	sub-06	211	3	baseline	0	0	0	0
+450	180	sub-06	226	3	1A	1	good	positive	Belle’s daughter has survived. 
+630	30	sub-06	316	3	baseline	0	0	0	0
+660	180	sub-06	331	3	3B	3	good	negative	John looses Marlena to Alex 
+840	30	sub-06	421	3	baseline	0	0	0	0
+870	180	sub-06	436	3	4B	4	bad	positive	Sami will go to the concert. 
+1050	30	sub-06	526	3	baseline	0	0	0	0

@@ -1,0 +1,18 @@
+{
+    "Name": "Neurophysiology of Entertainment Dynamics and Connectivity of the Brain's Emotional Circuits",
+    "License": "CC0",
+    "Authors": [
+        "Rene Weber",
+        "Frederic R. Hopp",
+        "Allison Eden",
+        "Kate Lee",
+        "Laura Symonds",
+        "Klaus Mathiak",
+        "Margaret Mande"],
+    "Acknowledgements": "TODO",
+    "HowToAcknowledge": "",
+    "Funding": ["TODO"] ,
+    "ReferencesAndLinks": ["TODO"],
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "BIDSVersion": "1.0.1"
+}

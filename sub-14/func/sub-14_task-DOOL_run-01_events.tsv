@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-14	0	1	baseline	0	0	0	0
+30	180	sub-14	16	1	5B	5	random 	random	Max – Random scenes
+210	30	sub-14	106	1	baseline	0	0	0	0
+240	180	sub-14	121	1	4B	4	bad	positive	Sami will go to the concert. 
+420	30	sub-14	211	1	baseline	0	0	0	0
+450	180	sub-14	226	1	3B	3	good	negative	John looses Marlena to Alex 
+630	30	sub-14	316	1	baseline	0	0	0	0
+660	180	sub-14	331	1	1C	1	good	positive	Shawn proposed to Mimi. 
+840	30	sub-14	421	1	baseline	0	0	0	0
+870	180	sub-14	436	1	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+1050	30	sub-14	526	1	baseline	0	0	0	0
