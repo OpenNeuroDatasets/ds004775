@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-35	0	3	baseline	0	0	0	0
+30	180	sub-35	16	3	1B	1	good	positive	Austin got back Carrie. 
+210	30	sub-35	106	3	baseline	0	0	0	0
+240	180	sub-35	121	3	5B	5	random 	random	Max – Random scenes
+420	30	sub-35	211	3	baseline	0	0	0	0
+450	180	sub-35	226	3	2C	2	bad	negative	Sami failed to persuade Austin.
+630	30	sub-35	316	3	baseline	0	0	0	0
+660	180	sub-35	331	3	3B	3	good	negative	John looses Marlena to Alex 
+840	30	sub-35	421	3	baseline	0	0	0	0
+870	180	sub-35	436	3	4B	4	bad	positive	Sami will go to the concert. 
+1050	30	sub-35	526	3	baseline	0	0	0	0

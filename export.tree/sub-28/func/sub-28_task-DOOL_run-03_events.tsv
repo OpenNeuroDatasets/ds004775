@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-28	0	3	baseline	0	0	0	0
+30	180	sub-28	16	3	2B	2	bad	negative	Chelsea’s terrible car accident. 
+210	30	sub-28	106	3	baseline	0	0	0	0
+240	180	sub-28	121	3	3C	3	good	negative	Jenny’s husband is dead. 
+420	30	sub-28	211	3	baseline	0	0	0	0
+450	180	sub-28	226	3	4B	4	bad	positive	Sami will go to the concert. 
+630	30	sub-28	316	3	baseline	0	0	0	0
+660	180	sub-28	331	3	1A	1	good	positive	Belle’s daughter has survived. 
+840	30	sub-28	421	3	baseline	0	0	0	0
+870	180	sub-28	436	3	5B	5	random 	random	Max – Random scenes
+1050	30	sub-28	526	3	baseline	0	0	0	0

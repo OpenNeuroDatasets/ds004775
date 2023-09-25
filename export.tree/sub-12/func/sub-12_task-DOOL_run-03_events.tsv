@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-12	0	3	baseline	0	0	0	0
+30	180	sub-12	16	3	1A	1	good	positive	Belle’s daughter has survived. 
+210	30	sub-12	106	3	baseline	0	0	0	0
+240	180	sub-12	121	3	5A	5	random	random	Maggie – Random scenes 
+420	30	sub-12	211	3	baseline	0	0	0	0
+450	180	sub-12	226	3	3B	3	good	negative	John looses Marlena to Alex 
+630	30	sub-12	316	3	baseline	0	0	0	0
+660	180	sub-12	331	3	2B	2	bad	negative	Chelsea’s terrible car accident. 
+840	30	sub-12	421	3	baseline	0	0	0	0
+870	180	sub-12	436	3	4C	4	bad	positive	Lucas got back the account. 
+1050	30	sub-12	526	3	baseline	0	0	0	0
