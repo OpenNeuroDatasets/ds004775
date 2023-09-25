@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-28	0	2	baseline	0	0	0	0
+30	180	sub-28	16	2	2C	2	bad	negative	Sami failed to persuade Austin.
+210	30	sub-28	106	2	baseline	0	0	0	0
+240	180	sub-28	121	2	4A	4	bad	positive	Sami’s good luck. 
+420	30	sub-28	211	2	baseline	0	0	0	0
+450	180	sub-28	226	2	1B	1	good	positive	Austin got back Carrie. 
+630	30	sub-28	316	2	baseline	0	0	0	0
+660	180	sub-28	331	2	3A	3	good	negative	Belle’s daughter gets very sick. 
+840	30	sub-28	421	2	baseline	0	0	0	0
+870	180	sub-28	436	2	5A	5	random	random	Maggie – Random scenes 
+1050	30	sub-28	526	2	baseline	0	0	0	0

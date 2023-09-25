@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-07	0	1	baseline	0	0	0	0
+30	180	sub-07	16	1	1B	1	good	positive	Austin got back Carrie. 
+210	30	sub-07	106	1	baseline	0	0	0	0
+240	180	sub-07	121	1	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+420	30	sub-07	211	1	baseline	0	0	0	0
+450	180	sub-07	226	1	5C	5	random 	random	Becky – Random scenes
+630	30	sub-07	316	1	baseline	0	0	0	0
+660	180	sub-07	331	1	4A	4	bad	positive	Sami’s good luck. 
+840	30	sub-07	421	1	baseline	0	0	0	0
+870	180	sub-07	436	1	3A	3	good	negative	Belle’s daughter gets very sick. 
+1050	30	sub-07	526	1	baseline	0	0	0	0

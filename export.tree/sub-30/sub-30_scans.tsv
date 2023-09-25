@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-30_task-DOOL_run-01_bold.nii.gz	2007-06-15T10:37:21	n/a	6aad4942
+func/sub-30_task-DOOL_run-02_bold.nii.gz	2007-06-15T10:59:49	n/a	6edef626
+anat/sub-30_T1w.nii.gz	2007-06-15T11:19:33	n/a	7ebfb7f7
+func/sub-30_task-DOOL_run-03_bold.nii.gz	2007-06-15T11:30:04	n/a	e45ec3e3

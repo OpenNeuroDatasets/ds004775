@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-11	0	1	baseline	0	0	0	0
+30	180	sub-11	16	1	1C	1	good	positive	Shawn proposed to Mimi. 
+210	30	sub-11	106	1	baseline	0	0	0	0
+240	180	sub-11	121	1	4C	4	bad	positive	Lucas got back the account. 
+420	30	sub-11	211	1	baseline	0	0	0	0
+450	180	sub-11	226	1	2B	2	bad	negative	Chelsea’s terrible car accident. 
+630	30	sub-11	316	1	baseline	0	0	0	0
+660	180	sub-11	331	1	3B	3	good	negative	John looses Marlena to Alex 
+840	30	sub-11	421	1	baseline	0	0	0	0
+870	180	sub-11	436	1	5B	5	random 	random	Max – Random scenes
+1050	30	sub-11	526	1	baseline	0	0	0	0

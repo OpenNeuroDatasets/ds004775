@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-18	0	3	baseline	0	0	0	0
+30	180	sub-18	16	3	2B	2	bad	negative	Chelsea’s terrible car accident. 
+210	30	sub-18	106	3	baseline	0	0	0	0
+240	180	sub-18	121	3	3C	3	good	negative	Jenny’s husband is dead. 
+420	30	sub-18	211	3	baseline	0	0	0	0
+450	180	sub-18	226	3	4C	4	bad	positive	Lucas got back the account. 
+630	30	sub-18	316	3	baseline	0	0	0	0
+660	180	sub-18	331	3	5C	5	random 	random	Becky – Random scenes
+840	30	sub-18	421	3	baseline	0	0	0	0
+870	180	sub-18	436	3	1C	1	good	positive	Shawn proposed to Mimi. 
+1050	30	sub-18	526	3	baseline	0	0	0	0

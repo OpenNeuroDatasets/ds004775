@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-28	0	1	baseline	0	0	0	0
+30	180	sub-28	16	1	1C	1	good	positive	Shawn proposed to Mimi. 
+210	30	sub-28	106	1	baseline	0	0	0	0
+240	180	sub-28	121	1	5C	5	random 	random	Becky – Random scenes
+420	30	sub-28	211	1	baseline	0	0	0	0
+450	180	sub-28	226	1	4C	4	bad	positive	Lucas got back the account. 
+630	30	sub-28	316	1	baseline	0	0	0	0
+660	180	sub-28	331	1	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+840	30	sub-28	421	1	baseline	0	0	0	0
+870	180	sub-28	436	1	3B	3	good	negative	John looses Marlena to Alex 
+1050	30	sub-28	526	1	baseline	0	0	0	0
