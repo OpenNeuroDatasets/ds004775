@@ -8,11 +8,16 @@
         "Kate Lee",
         "Laura Symonds",
         "Klaus Mathiak",
-        "Margaret Mande"],
+        "Margaret Mande"
+    ],
     "Acknowledgements": "TODO",
     "HowToAcknowledge": "",
-    "Funding": ["TODO"] ,
-    "ReferencesAndLinks": ["TODO"],
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "TODO"
+    ],
+    "ReferencesAndLinks": [
+        "TODO"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004775.v1.0.0",
     "BIDSVersion": "1.0.1"
 }
