@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-31	0	2	baseline	0	0	0	0
+30	180	sub-31	16	2	1B	1	good	positive	Austin got back Carrie. 
+210	30	sub-31	106	2	baseline	0	0	0	0
+240	180	sub-31	121	2	5C	5	random 	random	Becky – Random scenes
+420	30	sub-31	211	2	baseline	0	0	0	0
+450	180	sub-31	226	2	3A	3	good	negative	Belle’s daughter gets very sick. 
+630	30	sub-31	316	2	baseline	0	0	0	0
+660	180	sub-31	331	2	4B	4	bad	positive	Sami will go to the concert. 
+840	30	sub-31	421	2	baseline	0	0	0	0
+870	180	sub-31	436	2	2B	2	bad	negative	Chelsea’s terrible car accident. 
+1050	30	sub-31	526	2	baseline	0	0	0	0

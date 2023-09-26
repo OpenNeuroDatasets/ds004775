@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-27	0	3	baseline	0	0	0	0
+30	180	sub-27	16	3	3C	3	good	negative	Jenny’s husband is dead. 
+210	30	sub-27	106	3	baseline	0	0	0	0
+240	180	sub-27	121	3	1B	1	good	positive	Austin got back Carrie. 
+420	30	sub-27	211	3	baseline	0	0	0	0
+450	180	sub-27	226	3	5B	5	random 	random	Max – Random scenes
+630	30	sub-27	316	3	baseline	0	0	0	0
+660	180	sub-27	331	3	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+840	30	sub-27	421	3	baseline	0	0	0	0
+870	180	sub-27	436	3	4A	4	bad	positive	Sami’s good luck. 
+1050	30	sub-27	526	3	baseline	0	0	0	0

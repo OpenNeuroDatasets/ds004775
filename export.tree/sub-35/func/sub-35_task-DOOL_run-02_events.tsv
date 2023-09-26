@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-35	0	2	baseline	0	0	0	0
+30	180	sub-35	16	2	1A	1	good	positive	Belle’s daughter has survived. 
+210	30	sub-35	106	2	baseline	0	0	0	0
+240	180	sub-35	121	2	2A	2	bad	negative	Sami found Austin still loves Carrie. 
+420	30	sub-35	211	2	baseline	0	0	0	0
+450	180	sub-35	226	2	4C	4	bad	positive	Lucas got back the account. 
+630	30	sub-35	316	2	baseline	0	0	0	0
+660	180	sub-35	331	2	5A	5	random	random	Maggie – Random scenes 
+840	30	sub-35	421	2	baseline	0	0	0	0
+870	180	sub-35	436	2	3C	3	good	negative	Jenny’s husband is dead. 
+1050	30	sub-35	526	2	baseline	0	0	0	0
