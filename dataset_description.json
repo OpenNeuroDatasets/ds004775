@@ -13,7 +13,7 @@
     "ReferencesAndLinks": [
         "https://medianeuroscience.org"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004775.v1.1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004775.v1.1.1",
     "BIDSVersion": "1.0.1",
     "EthicsApprovals": [
         "Approved by the Internal Review Board of Michigan State University East Lansing"
